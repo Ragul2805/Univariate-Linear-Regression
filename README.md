@@ -49,11 +49,9 @@ plt.show()
 ## Output
 </br>![WhatsApp Image 2025-12-14 at 09 24 01_e9ed88a8](https://github.com/user-attachments/assets/ff1faa6e-fd92-4ff6-92ce-4da3ad4e70f7)
 
-</br>
-![WhatsApp Image 2025-12-14 at 09 24 20_2a911e5c](https://github.com/user-attachments/assets/1dd0fcf2-5a73-4d5e-b718-f6058c373fc7)
+</br>![WhatsApp Image 2025-12-14 at 09 24 20_2a911e5c](https://github.com/user-attachments/assets/1dd0fcf2-5a73-4d5e-b718-f6058c373fc7)
 
-</br>
-![WhatsApp Image 2025-12-14 at 09 24 53_9642c2d8](https://github.com/user-attachments/assets/da21680a-336f-412f-8b41-f9b28ae7bb33)
+</br>![WhatsApp Image 2025-12-14 at 09 24 53_9642c2d8](https://github.com/user-attachments/assets/da21680a-336f-412f-8b41-f9b28ae7bb33)
 
 </br>
 
